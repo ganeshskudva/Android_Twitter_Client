@@ -1,7 +1,7 @@
 ##Android Twitter Client
 ## Codepath Android Bootcamp:Twitter Client
 
-Time Spent: 15hrs
+Time Spent: 22hrs
 
 ###Walkthrough
 ![Twitter Client](TwttrClient.gif)
